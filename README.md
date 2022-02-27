@@ -1,4 +1,4 @@
-# My solutions to problems from codeforces
+# Codeforces
 
 https://codeforces.com/ is a website with programming problems.
 
@@ -8,3 +8,7 @@ Codeforces is a project joining people interested in and taking part in programm
 # File organization
 
 Each problem is in directory named in format {number}{letter}-{name} (e.x. 420A-Blaze-It). To get problem desriction go to page: https://codeforces.com/contest/{number}/problem/{letter}.
+
+# My profile
+
+https://codeforces.com/profile/blue.pitaya
